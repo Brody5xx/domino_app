@@ -8,6 +8,11 @@
     "userInterfaceStyle": "light",
     "android": {
       "package": "com.domino1.marcador"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a70da323-4a6d-4de5-a3bb-368c6b1d4f18"
+      }
     }
   }
 }
